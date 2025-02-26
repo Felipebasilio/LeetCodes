@@ -1,5 +1,3 @@
-# LeetCodes
-
 # LeetCodes - LeetCode Challenges -> My Solutions
 
 Welcome to my personal repository for coding challenge solutions! This repository serves as a database of my solutions to various algorithmic and data structure problems, primarily from platforms like LeetCode. The main goal is to track my progress, improve my problem-solving skills, and maintain a historical record of my submitted solutions.
